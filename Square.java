@@ -1,0 +1,2 @@
+class Square extends Shape{
+}
